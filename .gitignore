@@ -1,4 +1,3 @@
-# Logs
 # ---> Vim
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -6,6 +5,7 @@
 Session.vim
 .netrwhist
 
+# Logs
 logs
 *.log
 npm-debug.log*
